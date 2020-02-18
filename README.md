@@ -1,2 +1,0 @@
-# deno-test
-Begin app
